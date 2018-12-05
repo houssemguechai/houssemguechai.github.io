@@ -1,24 +1,18 @@
 ---
-title: "My Homepage"
+title: "Houssem Guechai"
+author: ""
+date: ""
+output: html_document
+encoding: UTF-8
+---
+---
 ---
 
+<link rel="stylesheet" href="styles.css" type="text/css">
 
-## R Markdown
+<img src="image/me.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="left">
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+ 
+ 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+My name is Houssem Guechai . I am a third year engineering student at the Higher School of Statistics and Data Analysisspecialized in Big Data  , Currently searching for an internship 
