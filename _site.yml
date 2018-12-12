@@ -9,8 +9,11 @@ navbar:
     icon: fa-home
     href: index.html
   
-  - text: CV
+  - text: My CV
     href: cv.pdf
+    
+  - text: Map
+    href: flex.html
     
   #- text: Dashboard
    # href: Dashboard/cartd.html
@@ -24,8 +27,7 @@ navbar:
     href: https://github.com/houssemguechai
   - icon: fa-linkedin fa-lg
     href: https://www.linkedin.com/in/houssem-guecha%C3%AF-436487141/
-  #- icon: fa-facebook fa-lg
-   # href: https://www.facebook.com/narjes.abbassi.73
+  
 output:
   html_document:
     theme: yeti
