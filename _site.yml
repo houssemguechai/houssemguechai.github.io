@@ -15,6 +15,9 @@ navbar:
   - text: Map
     href: flex.html
     
+  - text: Shiny App
+    href: shiny1.html
+    
   #- text: Dashboard
    # href: Dashboard/cartd.html
     
